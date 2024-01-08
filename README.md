@@ -1,2 +1,2 @@
-# Pythom
+# Python
 Codigos de estudo
